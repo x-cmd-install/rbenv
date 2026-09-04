@@ -7,7 +7,7 @@ about:
   head: 07e9b1e
   archived: false
   latestVersion: v1.3.2
-  collectedAt: 2026-09-04T19:54:29Z
+  collectedAt: 2026-09-04T20:49:55Z
 timeline:
   created: 2011-08-01
   lastCommit: 2026-07-13
@@ -83,6 +83,44 @@ total:
   openIssue: 9
   commit: 855
 ---
+path: /home/runner/.x-repo/github.com/rbenv/rbenv
+collectedAt: 2026-09-04T20:49:55Z
+loc:
+  Bash:
+    code: 1267
+    comments: 274
+    blanks: 201
+    files: 31
+  AsciiDoc:
+    code: 54
+    comments: 0
+    blanks: 33
+    files: 1
+  Ruby:
+    code: 40
+    comments: 1
+    blanks: 4
+    files: 1
+  Autoconf:
+    code: 6
+    comments: 0
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 3
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 291
+    blanks: 149
+    files: 2
+total:
+  code: 1370
+  comments: 566
+  blanks: 390
+  files: 37
 ---
 date: "2026-08-24"
 repo:
