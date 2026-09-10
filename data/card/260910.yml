@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.2"
   latestRelease: "v1.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:08:21Z
+  collectedAt: 2026-09-10T20:09:17Z
 timeline:
   created: 2011-08-01
   lastCommit: 2026-07-13
@@ -86,7 +86,7 @@ total:
   commit: 855
 ---
 path: /home/runner/.x-repo/github.com/rbenv/rbenv
-collectedAt: 2026-09-10T16:08:22Z
+collectedAt: 2026-09-10T20:09:18Z
 loc:
   Bash:
     code: 1267
