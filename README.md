@@ -22,11 +22,10 @@ x install rbenv
 
 - **Latest**: `v1.3.2` (2025-01-08)
 - **Last commit**: 2026-07-13
-- **Published**: 2025-01-08T14:05:30Z
 
 ## Popularity
 
-- **Stars**: 16,732 · **Forks**: 1,427 · **Open issues**: 1,064 · **Contributors**: 120
+- **Stars**: 16,731 · **Forks**: 1,427 · **Open issues**: 1,064 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for rbenv lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rbenv` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/rbenv.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rbenv.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:34:51Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:08:25Z._
