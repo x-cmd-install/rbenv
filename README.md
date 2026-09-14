@@ -47,40 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,732 · **Forks**: 1,428 · **Open issues**: 1,064 · **Contributors**: 120
+- **Stars**: 16,732 · **Forks**: 1,429 · **Open issues**: 1,064 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 218 · **Open PRs**: 7 · **Closed issues**: 1055 · **Open issues**: 9 · **Commits**: 855
+- **Releases**: 14 · **Merged PRs**: 218 · **Open PRs**: 8 · **Closed issues**: 1055 · **Open issues**: 9 · **Commits**: 855
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 2 | 2 | 0 | 0 | 3 |
-| last180d | 2026-03-17 | 0 | 3 | 2 | 1 | 1 | 3 |
-| 360d | 2025-09-18 | 0 | 6 | 3 | 3 | 1 | 7 |
-| last720d | 2024-09-23 | 2 | 15 | 4 | 18 | 3 | 37 |
-
-## Distribution status
-
-Reported by **67** distros on [repology.org](https://repology.org/project/rbenv). **32** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.3.2` | ✅ latest |
-| Debian 14 | `1.3.2` | ✅ latest |
-| Debian 13 | `1.1.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.3.2` | ✅ latest |
-| Ubuntu 24.04 LTS | `1.1.2` | ⚠️ outdated |
-| Arch | `1.3.2` | ✅ latest |
-| Homebrew | `1.3.2` | ✅ latest |
-| Fedora rawhide | `1.3.2` | ✅ latest |
-| Nix unstable | `1.3.2` | ✅ latest |
-| Void | `1.3.2` | ✅ latest |
-| openSUSE Tumbleweed | `1.3.2` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 2 | 3 | 0 | 0 | 3 |
+| last180d | 2026-03-18 | 0 | 3 | 3 | 1 | 1 | 3 |
+| 360d | 2025-09-19 | 0 | 6 | 4 | 3 | 1 | 7 |
+| last720d | 2024-09-24 | 2 | 15 | 5 | 18 | 3 | 37 |
 
 ## Improve this data
 
@@ -91,4 +73,4 @@ Install metadata for rbenv lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:42:38Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:50:13Z._
