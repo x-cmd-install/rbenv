@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,731 · **Forks**: 1,428 · **Open issues**: 1,064 · **Contributors**: 119
+- **Stars**: 16,733 · **Forks**: 1,428 · **Open issues**: 1,064 · **Contributors**: 119
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 2 | 3 | 0 | 0 | 3 |
-| last180d | 2026-03-20 | 0 | 3 | 3 | 1 | 1 | 3 |
-| 360d | 2025-09-21 | 0 | 6 | 4 | 3 | 1 | 7 |
-| last720d | 2024-09-26 | 2 | 15 | 5 | 17 | 3 | 37 |
+| 30d | 2026-08-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 2 | 3 | 0 | 0 | 3 |
+| last180d | 2026-03-21 | 0 | 3 | 3 | 1 | 1 | 3 |
+| 360d | 2025-09-22 | 0 | 5 | 4 | 3 | 1 | 7 |
+| last720d | 2024-09-27 | 2 | 15 | 5 | 17 | 3 | 37 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rbenv lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:45:11Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:57:33Z._
