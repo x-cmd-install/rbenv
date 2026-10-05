@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 218 · **Open PRs**: 8 · **Closed issues**: 1056 · **Open issues**: 9 · **Commits**: 855
+- **Releases**: 14 · **Merged PRs**: 218 · **Open PRs**: 9 · **Closed issues**: 1056 · **Open issues**: 9 · **Commits**: 855
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 0 | 2 | 1 | 0 | 0 |
-| last60d | 2026-08-05 | 0 | 0 | 2 | 1 | 0 | 0 |
-| 90d | 2026-07-06 | 0 | 1 | 3 | 1 | 0 | 2 |
-| last180d | 2026-04-07 | 0 | 2 | 3 | 2 | 0 | 3 |
-| 360d | 2025-10-09 | 0 | 5 | 4 | 4 | 1 | 6 |
-| last720d | 2024-10-14 | 2 | 15 | 5 | 14 | 3 | 37 |
+| 30d | 2026-09-05 | 0 | 0 | 3 | 1 | 0 | 0 |
+| last60d | 2026-08-06 | 0 | 0 | 3 | 1 | 0 | 0 |
+| 90d | 2026-07-07 | 0 | 1 | 4 | 1 | 0 | 2 |
+| last180d | 2026-04-08 | 0 | 2 | 4 | 2 | 0 | 3 |
+| 360d | 2025-10-10 | 0 | 4 | 5 | 3 | 1 | 6 |
+| last720d | 2024-10-15 | 2 | 15 | 6 | 14 | 3 | 37 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rbenv lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:46:38Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:33:52Z._
