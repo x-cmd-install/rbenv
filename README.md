@@ -26,13 +26,13 @@ Total: **1,370** lines of code across **35** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.7 / 10**
+Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,736 · **Forks**: 1,428 · **Open issues**: 1,065 · **Contributors**: 119
+- **Stars**: 16,736 · **Forks**: 1,426 · **Open issues**: 1,065 · **Contributors**: 118
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 2 | 1 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 2 | 1 | 0 | 0 |
-| last180d | 2026-04-17 | 0 | 2 | 3 | 2 | 0 | 3 |
-| 360d | 2025-10-19 | 0 | 4 | 4 | 3 | 1 | 6 |
-| last720d | 2024-10-24 | 2 | 15 | 5 | 14 | 3 | 37 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 2 | 1 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 2 | 1 | 0 | 0 |
+| last180d | 2026-04-18 | 0 | 2 | 3 | 2 | 0 | 3 |
+| 360d | 2025-10-20 | 0 | 4 | 4 | 3 | 1 | 6 |
+| last720d | 2024-10-25 | 2 | 15 | 5 | 14 | 3 | 37 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for rbenv lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:54:55Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:41:51Z._
